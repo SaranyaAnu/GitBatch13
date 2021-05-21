@@ -2,9 +2,12 @@ package org.test;
 
 public class Sample {
 
-	private void add() {
-		System.out.println("Emp 2");
+	public static void main(String[] args) {
 
 	}
 
+private void add() {
+	System.out.println("Emp 2");
+
+}
 }
